@@ -1,0 +1,26 @@
+body{
+    background-color: skyblue;
+}
+
+
+h1{
+    color: black;
+    background-color:skyblue;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: springgreen;
+}
+    h4{
+        color:gold;
+    }
+h5{
+    color:skyblue;
+    background-color: brown;
+}
+head{
+    color: slateblue;
+    background-color: tan;
+}
